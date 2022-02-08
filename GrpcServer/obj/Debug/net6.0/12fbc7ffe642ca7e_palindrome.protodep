@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Palindrome.cs \
+obj\Debug\net6.0\Protos/PalindromeGrpc.cs: Protos/palindrome.proto

@@ -1,0 +1,18 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcProto";
+
+package greet;
+
+service PalindromeService {
+  rpc  GetCheckForPalindrome(stream PalindromeRequest) returns (stream PalindromeResponse);
+}
+
+message PalindromeRequest {
+  string text = 1;
+}
+
+message PalindromeResponse {
+  bool check = 1;
+}
+

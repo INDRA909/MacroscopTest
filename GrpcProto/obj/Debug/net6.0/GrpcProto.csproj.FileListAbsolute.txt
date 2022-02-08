@@ -1,0 +1,12 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\bin\Debug\net6.0\GrpcProto.deps.json
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\bin\Debug\net6.0\GrpcProto.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\bin\Debug\net6.0\ref\GrpcProto.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\bin\Debug\net6.0\GrpcProto.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\GrpcProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\GrpcProto.AssemblyInfoInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\GrpcProto.AssemblyInfo.cs
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\GrpcProto.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\GrpcProto.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\ref\GrpcProto.dll
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\GrpcProto.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\macroscop\GrpcProto\obj\Debug\net6.0\GrpcProto.csproj.AssemblyReference.cache
