@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nzes5X9oBDLiJBfDxD/miQRQa0cXKcHOczQQ/Xr0Z0tzHxcUlRnmfZSjDTOr40Hr/BDnQiEJ1VO/WNkg1mzi+Q==",
+  "dgSpecHash": "B1pFHe3TxUB+jnTP0SGZDtBMiFMmKZQbDiwPE3kTNUo90XBUbQ/NFF60pJ9gePhldvCqgvvdpDtX78AJBBnxig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcServer\\GrpcServer.csproj",
+  "projectFilePath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcServer\\GrpcServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivanr\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\ivanr\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",

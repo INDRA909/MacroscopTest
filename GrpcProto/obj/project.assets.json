@@ -266,11 +266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj",
+      "projectUniqueName": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj",
       "projectName": "GrpcProto",
-      "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj",
+      "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj",
       "packagesPath": "C:\\Users\\ivanr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\obj\\",
+      "outputPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

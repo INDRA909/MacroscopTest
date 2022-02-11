@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yL5jauaVXxvb5eqOSWDW/xrOtUqrUhzhc6CuDc3qP9iS/zE5i4quHxMz/70sGbNnj8alrCtHkzYhpi7g5wXjLA==",
+  "dgSpecHash": "OT6PH07ydIMTXhpqVxK5bLp0hrvOFdxLsIA2acSf8SE6Ms+2ZlwRS8v8wcSOWYI8QTpLdP87H79Cc7YnUhEV8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj",
+  "projectFilePath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivanr\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\ivanr\\.nuget\\packages\\grpc.core.api\\2.42.0\\grpc.core.api.2.42.0.nupkg.sha512",

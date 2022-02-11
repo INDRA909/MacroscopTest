@@ -12,7 +12,7 @@ namespace GrpcServer.Services
         {
             await foreach(var request in requestStream.ReadAllAsync())
             {
-                Thread.Sleep(2000);
+                Thread.Sleep(1000);
                 await responseStream.WriteAsync(new PalindromeResponse()
                 {                   
                     Check = CheckForPalindrome(request.Text)
