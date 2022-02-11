@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "98aZFsxp1MQ43yomAbNrrJp9R5NR5U/I5XunfeSdGlEjAUD3bGeOcD3b8ibJcYDADvE2flRJn2ZvKi+jn/oraQ==",
+  "dgSpecHash": "kfr8o9QkqKHtEIVN66PldmoddJVcE5dJbzjjQqw5Nkb5LJBFkWKM4//6xZxYONTVmunm9NSwzwu/+7ddZ8vGMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivanr\\.nuget\\packages\\caliburn.micro\\4.0.173\\caliburn.micro.4.0.173.nupkg.sha512",
     "C:\\Users\\ivanr\\.nuget\\packages\\caliburn.micro.core\\4.0.173\\caliburn.micro.core.4.0.173.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\Client\\Client.csproj": {}
+    "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\Client\\Client.csproj": {
+    "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\ivanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\Client\\obj\\",
+        "outputPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj": {
-                "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj"
+              "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj": {
+                "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj": {
+    "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj",
+        "projectUniqueName": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj",
         "projectName": "GrpcProto",
-        "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\GrpcProto.csproj",
+        "projectPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\GrpcProto.csproj",
         "packagesPath": "C:\\Users\\ivanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\macroscop\\GrpcProto\\obj\\",
+        "outputPath": "C:\\Users\\ivanr\\OneDrive\\Рабочий стол\\Git\\macroscop\\MacroscopTest\\GrpcProto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
